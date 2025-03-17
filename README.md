@@ -14,10 +14,10 @@ Run `sum_1_to_50.py` to see the calculated sum.
 
 ## How to Run
 1. Clone the repository:
-git clone https://github.com/yourusername/python-assignment-2.git
-2. Navigate to the folder:
+git clone https://github.com/rahulsisodiya0109/python-assignment-2.git
+3. Navigate to the folder:
 cd python-assignment-2
-3. Run the scripts:
+4. Run the scripts:
 python even_odd_checker.py python sum_1_to_50.py
 
 ## Author
